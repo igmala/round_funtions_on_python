@@ -1,0 +1,6 @@
+name = input("what is your name: ")
+name_1 = input("what is your word on the street?: ")
+name1 = input("what is your gov name?: ")
+myName = input("what are you called?: ")
+MyName = input("what is your local area code?:")
+print(name + "\n" + name1 + "\n" + name_1+"\n" + myName + "\n" + MyName)

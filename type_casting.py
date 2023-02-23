@@ -1,0 +1,16 @@
+print(len('jenny\'s kitchen'))
+print('jenny\'s kitchen')
+length = len("wallace stephen")
+new_length = str(length)
+print("your government name has " + str(length) + " characters")
+print(type(length))
+print(type(new_length))
+
+print(10 + 10)
+print(int('10') + int('10'))
+print("10" + "10")
+
+A = input("input your number: ")
+B = input("input your number: ")
+sum = int(A) + int(B)
+print("your result is : ",  sum)
